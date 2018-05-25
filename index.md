@@ -1,5 +1,7 @@
 # FPGA開発日記 カテゴリ別記事インデックス
 
+![1527271016714](C:\msys64\home\masayuki\work\msyksphinz.github.io\msyksphinz.png)
+
 ## AWS F1インスタンス
 
 - [AWS EC2 F1インスタンスを使ったハードウェア開発の勉強 (10. 整数行列計算回路の実装) (18/05/24)](http://msyksphinz.hatenablog.com/entry/2018/05/24/040000)
@@ -14,7 +16,7 @@
 - [AWS EC2 F1インスタンスを使ったハードウェア開発の勉強 (2. cl_hello_worldの実行) (18/05/01)](http://msyksphinz.hatenablog.com/entry/2018/05/01/040000)
 - [AWS EC2 F1インスタンスを使ったハードウェア開発の勉強 (1. HDKのセットアップ) (18/04/27)](http://msyksphinz.hatenablog.com/entry/2018/04/27/040000)
 
-## 30日でできる！OS自作入門
+## オペレーティングシステム
 
 [30日でできる！OS自作入門記事一覧](30os)
 
@@ -133,3 +135,52 @@
 - [FireSimを使ってRocket-ChipをAmazon F1インスタンスで動かす試行 (18/03/27)](http://msyksphinz.hatenablog.com/entry/2018/03/27/040000)
 - [Amazon AMI でRISC-V Rocket-Chipを合成したい(微妙に挫折) (18/01/20)](http://msyksphinz.hatenablog.com/entry/2018/01/20/215927)
 - [最大8コアのRISC-V Rocket-ChipがAmazon F1インスタンスで動く (FireSim) (17/09/09)](http://msyksphinz.hatenablog.com/entry/2017/09/09/012344)
+
+# MIPSアーキテクチャ
+
+- [MIPSのマルチスレッディング対応マルチコアプロセッサI7200 (18/05/02)](http://msyksphinz.hatenablog.com/entry/2018/05/02/040000)
+- [MIPSだって、Spectre & Meltdown (Meltdownはしない?) (18/01/20)](http://msyksphinz.hatenablog.com/entry/2018/01/20/130940)
+- [Imaginationのマルチクラスタに対応した最新MIPSコアI6500 (16/10/19)](http://msyksphinz.hatenablog.com/entry/2016/10/19/020000)
+- [GCC-6.1がリリースされたのでVagrantに開発環境を構築する(MIPS用) (16/04/29)](http://msyksphinz.hatenablog.com/entry/2016/04/29/025735)
+- [64bit MIPSに対応したISSを公開しました (16/01/01)](http://msyksphinz.hatenablog.com/entry/2016/01/01/110000)
+- [MIPSアーキテクチャ64bitへの対応を検討する(ISSのデコード回路の追加3) (15/12/23)](http://msyksphinz.hatenablog.com/entry/2015/12/23/020000)
+- [MIPSアーキテクチャ64bitへの対応を検討する(ISSのデコード回路の追加2) (15/12/22)](http://msyksphinz.hatenablog.com/entry/2015/12/22/020000)
+- [MIPSアーキテクチャ64bitへの対応を検討する(ISSのデコード回路の追加) (15/12/20)](http://msyksphinz.hatenablog.com/entry/2015/12/20/010000)
+- [MIPSアーキテクチャ64bitへの対応を検討する(ベンチマークのビルド) (15/12/18)](http://msyksphinz.hatenablog.com/entry/2015/12/18/020000)
+- [Imagination TechnologiesがMIPSのハイエンドコアプロセッサP6600を発表 (15/11/17)](http://msyksphinz.hatenablog.com/entry/2015/11/17/020300)
+- [MIPSがGoogleのIoT向けOS「Brillo」をサポート (15/10/31)](http://msyksphinz.hatenablog.com/entry/2015/10/31/060000)
+- [テキストを読んで、xv6のブートプロセスを理解する(4: MIPS用にバイナリの配置を変更) (15/10/04)](http://msyksphinz.hatenablog.com/entry/2015/10/04/020000)
+- [MIPSのTLBについて勉強(シンプルなアドレス変換をISSに実行する) (15/09/29)](http://msyksphinz.hatenablog.com/entry/2015/09/29/020000)
+- [U-bootをMIPSアーキテクチャ向けにビルドする (15/09/23)](http://msyksphinz.hatenablog.com/entry/2015/09/23/020000)
+- [MIPSのブートプロセスについての勉強(YAMONについて勉強) (15/09/20)](http://msyksphinz.hatenablog.com/entry/2015/09/20/040000)
+- [ISSがシステムレジスタにアクセスすると、そのログを表示するようにする(MIPS版) (15/09/18)](http://msyksphinz.hatenablog.com/entry/2015/09/18/220000)
+- [中国製MIPS64 CPU "龍芯3号" (15/09/04)](http://msyksphinz.hatenablog.com/entry/2015/09/04/233000)
+- [MIPSのシステムレジスタをISSに実装する(1) (15/09/04)](http://msyksphinz.hatenablog.com/entry/2015/09/04/020000)
+- [MIPSのシステムレジスタを実装するための環境変更 (15/09/03)](http://msyksphinz.hatenablog.com/entry/2015/09/03/020000)
+- [MIPS用ISSをRISC-Vでも動作するようにする (15/08/02)](http://msyksphinz.hatenablog.com/entry/2015/08/02/233814)
+- [MIPS ISS実装中... (15/08/01)](http://msyksphinz.hatenablog.com/entry/2015/08/01/023009)
+- [MIPS用ISSの実装とRISC-Vとの共用 (15/07/24)](http://msyksphinz.hatenablog.com/entry/2015/07/24/020000)
+- [ MIPS用 GCC5.1 をビルド環境をVagrantで自動的に構築できるようにした (15/05/17)](http://msyksphinz.hatenablog.com/entry/2015/05/17/020000)
+- [ MIPS用GCC5.1をビルドするVagrant環境を構築してみた (15/05/13)](http://msyksphinz.hatenablog.com/entry/2015/05/13/020000)
+- [MIPS版GCC5.1でアーキテクチャRelease 6を試行 (15/05/10)](http://msyksphinz.hatenablog.com/entry/2015/05/10/020000)
+- [ GCC 5.1でMIPS Release 6がサポートされている！ (15/05/09)](http://msyksphinz.hatenablog.com/entry/2015/05/09/020000)
+- [ Coremark-Proのクロスコンパイルを試す (MIPS/RISC-Vで挑戦) (15/03/19)](http://msyksphinz.hatenablog.com/entry/2015/03/19/020000)
+- [ Interfaceのコンパイラ入門のビルドをやってみた(MIPS: 成功編) (15/02/24)](http://msyksphinz.hatenablog.com/entry/2015/02/24/020000)
+- [MIPSアーキテクチャ Release-6について (15/01/09)](http://msyksphinz.hatenablog.com/entry/2015/01/09/013133)
+
+
+
+# その他
+
+## リーダブルコード
+
+- [「リーダブルコード」を読む (第15章「「分/時間カウンタ」を設計・実装する」) (17/11/27)](http://msyksphinz.hatenablog.com/entry/2017/11/27/020000)
+- [「リーダブルコード」を読む (第13章「短いコードを書く」第14章「テストと読みやすさ」) (17/11/26)](http://msyksphinz.hatenablog.com/entry/2017/11/26/184110)
+- [「リーダブルコード」を読む (第11章「一度に1つのことを」、第12章「コードに思いを込める」) (17/11/24)](http://msyksphinz.hatenablog.com/entry/2017/11/24/010000)
+- [「リーダブルコード」を読む (第9章「変数と読みやすさ」第10章「無関係の下位問題を抽出する」) (17/11/23)](http://msyksphinz.hatenablog.com/entry/2017/11/23/013000)
+- [「リーダブルコード」を読む (第7章「制御フローを読みやすくする」第8章「巨大な式を分割する」) (17/11/22)](http://msyksphinz.hatenablog.com/entry/2017/11/22/020000)
+- [「リーダブルコード」を読む (第5章「コメントすべきことを知る」第6章「コメントは正確で簡潔に」) (17/11/21)](http://msyksphinz.hatenablog.com/entry/2017/11/21/020000)
+- [「リーダブルコード」を読む (第3章「理解しやすいコード」第4章「美しさ」) (17/11/19)](http://msyksphinz.hatenablog.com/entry/2017/11/19/230337)
+- [「リーダブルコード」を読む (「第1章: 理解しやすいコード」「第2章: 名前に情報を埋め込む」) (17/11/19)](http://msyksphinz.hatenablog.com/entry/2017/11/18/020000)
+- [リーダブルコードを(今さらながら)読んだ (15/06/17)](http://msyksphinz.hatenablog.com/entry/2015/06/17/020000)
+
