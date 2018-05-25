@@ -1,6 +1,6 @@
 # FPGA開発日記 カテゴリ別記事インデックス
 
-![1527271016714](C:\msys64\home\masayuki\work\msyksphinz.github.io\msyksphinz.png)
+![](msyksphinz.png)
 
 ## AWS F1インスタンス
 
