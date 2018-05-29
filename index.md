@@ -131,6 +131,7 @@
 
 ### Rocket-Chip + AWS F1
 
+- [Amazon EC2 F1インスタンスで動作するRISC-Vシミュレーション環境FireSimの論文を読む (18/05/29)](http://msyksphinz.hatenablog.com/entry/2018/05/29/040000)
 - [Amazon AWS F1インスタンス上で動作するRISC-VプロセッサRocket-Chipの環境FireSimがオープンソース化 (18/05/23)](http://msyksphinz.hatenablog.com/entry/2018/05/22/035900)
 - [FireSimを使ってRocket-ChipをAmazon F1インスタンスで動かす試行 (18/03/27)](http://msyksphinz.hatenablog.com/entry/2018/03/27/040000)
 - [Amazon AMI でRISC-V Rocket-Chipを合成したい(微妙に挫折) (18/01/20)](http://msyksphinz.hatenablog.com/entry/2018/01/20/215927)
