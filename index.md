@@ -4,6 +4,7 @@
 
 ## AWS F1インスタンス
 
+- [AWS EC2 F1インスタンスを使ったハードウェア開発の勉強 (11. 割り込み信号によるFPGAからホストへの通知機能) (18/05/31)](http://msyksphinz.hatenablog.com/entry/2018/05/31/040000)
 - [AWS EC2 F1インスタンスを使ったハードウェア開発の勉強 (10. 整数行列計算回路の実装) (18/05/24)](http://msyksphinz.hatenablog.com/entry/2018/05/24/040000)
 - [Amazon AWS F1インスタンス上で動作するRISC-VプロセッサRocket-Chipの環境FireSimがオープンソース化 (18/05/23)](http://msyksphinz.hatenablog.com/entry/2018/05/22/035900)
 - [AWS EC2 F1インスタンスを使ったハードウェア開発の勉強 (9. 整数行列計算回路の実装) (18/05/20)](http://msyksphinz.hatenablog.com/entry/2018/05/19/040000)
@@ -20,7 +21,7 @@
 
 [30日でできる！OS自作入門記事一覧](30os)
 
-## Mastering Bitcoin
+## Bitcoin
 
 [Mastering Bitcoinを読む 記事一覧](mastering_bitcoin)
 
