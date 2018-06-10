@@ -39,6 +39,11 @@
 
 ## RISC-V
 
+### RISC-V仕様
+
+- [RISC-VのCompressed命令のISS実装 (1) (28/06/07)](http://msyksphinz.hatenablog.com/entry/2018/06/07/040000)
+- [RISC-VのCompressed命令のISS実装 (2. RV64/RV32の両デコード対応) (18/06/08)](http://msyksphinz.hatenablog.com/entry/2018/06/08/040000)
+
 ### Rocket-Chip / BOOM仕様調査
 - [Rocket-Chip を改造して外部SRAMからプログラムをロードして実行する (18/03/05)](http://msyksphinz.hatenablog.com/entry/2018/03/05/234841)
 - [RISC-VのアウトオブオーダプロセッサBOOMの構成について (18/02/24)](http://msyksphinz.hatenablog.com/entry/2018/02/24/040000)
