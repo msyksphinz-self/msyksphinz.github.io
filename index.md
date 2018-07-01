@@ -45,6 +45,9 @@
 - [RISC-VのCompressed命令のISS実装 (2. RV64/RV32の両デコード対応) (18/06/08)](http://msyksphinz.hatenablog.com/entry/2018/06/08/040000)
 
 ### Rocket-Chip / BOOM仕様調査
+
+- [SiFive社から発表されたローエンド用のRISC-VコアE21/E20 (18/06/28)](http://msyksphinz.hatenablog.com/entry/2018/06/28/040000_1)
+
 - [Rocket-Chip を改造して外部SRAMからプログラムをロードして実行する (18/03/05)](http://msyksphinz.hatenablog.com/entry/2018/03/05/234841)
 - [RISC-VのアウトオブオーダプロセッサBOOMの構成について (18/02/24)](http://msyksphinz.hatenablog.com/entry/2018/02/24/040000)
 - [RISC-V BOOM2 を改造してSoC環境を構築する (1. BOOM2 のブートの仕組み解析) (18/02/22)](http://msyksphinz.hatenablog.com/entry/2018/02/22/050000)
@@ -136,6 +139,10 @@
 - [Rocket ChipのChiselを使ってアクセラレータを作る (行列積アクセラレータのアイデア出し) (17/09/16)](http://msyksphinz.hatenablog.com/entry/2017/09/16/020000)
 
 ### Rocket-Chip + AWS F1
+
+- [AWSで動作するRISC-VデザインFireSimのカスタマイズ : オリジナルデバイスをVerilog付きでシミュレーションする (18/06/28)](http://msyksphinz.hatenablog.com/entry/2018/06/28/040000)
+- [AWSで動作するRISC-VデザインFireSimのカスタマイズ : Firechipにオリジナルデバイスを追加する (18/06/27)](http://msyksphinz.hatenablog.com/entry/2018/06/27/040000)
+- [AWSで動作するRISC-VデザインFireSimのカスタマイズ : Firechipを試す (18/06/26)](http://msyksphinz.hatenablog.com/entry/2018/06/26/040000)
 
 - [AWS上で動作するRISC-VチップFireSimのチュートリアルを試す 4. Single Core Roctket-Chipの動作 (18/06/23)](http://msyksphinz.hatenablog.com/entry/2018/06/23/005256)
 - [AWS上で動作するRISC-VチップFireSimのチュートリアルを試す 3. ソフトウェアのビルドと環境設定 (18/06/22)](http://msyksphinz.hatenablog.com/entry/2018/06/22/040000)

@@ -1,5 +1,11 @@
 # 機械学習 / TensorFlow
 
+## TensorFlow + Keras + Keras2cpp
+
+- [TensorFlow+Kerasに入門(3. Keras2cppでCIFAR10のモデルを変換してみる) (18/07/01)](http://msyksphinz.hatenablog.com/entry/2018/06/09/040000)
+- [TensorFlow+Kerasに入門(2. Keras2cppを試行) (18/07/01)](http://msyksphinz.hatenablog.com/entry/2018/06/06/040000)
+- [TensorFlow+Kerasに入門(1. 環境構築+サンプルコード実行) (18/07/01)](http://msyksphinz.hatenablog.com/entry/2018/06/04/000000)
+
 ## TensorFlow
 
 - [Raspberry-Pi3でTensorFlowをコンパイルして動作させるまで (17/06/05)](http://msyksphinz.hatenablog.com/entry/2017/06/05/020000)
