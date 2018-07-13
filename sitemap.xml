@@ -5,4 +5,29 @@
      <lastmod>2018-07-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    <url>
+     <loc>/30os/</loc>
+     <lastmod>2018-07-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/gpgpu/</loc>
+     <lastmod>2018-07-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/machine_learning/</loc>
+     <lastmod>2018-07-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/mastering_bitcoin/</loc>
+     <lastmod>2018-07-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/quantum_computing/</loc>
+     <lastmod>2018-07-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
